@@ -88,4 +88,4 @@
 
 ## License
 
-All Rights Reserved — free to use, modify, and distribute.
+All Rights Reserved.
